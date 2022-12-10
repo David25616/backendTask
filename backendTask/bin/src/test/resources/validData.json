@@ -1,0 +1,28 @@
+[
+  {
+    "authenticationToken": "123456",
+    "dataSources": [
+      {
+        "dataSource": 8,
+        "data": [
+          {
+            "startTimestampUnix": 1605595355000,
+            "endTimestampUnix": 1605595394000,
+            "createdAtUnix": 1605597330067,
+            "dynamicValueType": 3000,
+            "value": "78",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605595957000,
+            "endTimestampUnix": 1605595998000,
+            "createdAtUnix": 1605597330072,
+            "dynamicValueType": 3000,
+            "value": "76",
+            "valueType": "LONG"
+          }
+        ]
+      }
+    ]
+  }
+]

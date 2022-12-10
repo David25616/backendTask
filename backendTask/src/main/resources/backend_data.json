@@ -1,0 +1,748 @@
+[
+  {
+    "authenticationToken": "123456",
+    "dataSources": [
+      {
+        "dataSource": 8,
+        "data": [
+          {
+            "startTimestampUnix": 1605595355000,
+            "endTimestampUnix": 1605595394000,
+            "createdAtUnix": 1605597330067,
+            "dynamicValueType": 3000,
+            "value": "78",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605595957000,
+            "endTimestampUnix": 1605595998000,
+            "createdAtUnix": 1605597330072,
+            "dynamicValueType": 3000,
+            "value": "76",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605596559000,
+            "endTimestampUnix": 1605596602000,
+            "createdAtUnix": 1605597330073,
+            "dynamicValueType": 3000,
+            "value": "53",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605597154000,
+            "endTimestampUnix": 1605597192000,
+            "createdAtUnix": 1605597330075,
+            "dynamicValueType": 3000,
+            "value": "70",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605597758000,
+            "endTimestampUnix": 1605597800000,
+            "createdAtUnix": 1605599133915,
+            "dynamicValueType": 3000,
+            "value": "74",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605598358000,
+            "endTimestampUnix": 1605598400000,
+            "createdAtUnix": 1605599133916,
+            "dynamicValueType": 3000,
+            "value": "69",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605598956000,
+            "endTimestampUnix": 1605598996000,
+            "createdAtUnix": 1605600937869,
+            "dynamicValueType": 3000,
+            "value": "71",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605599556000,
+            "endTimestampUnix": 1605599596000,
+            "createdAtUnix": 1605600937870,
+            "dynamicValueType": 3000,
+            "value": "88",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605600165000,
+            "endTimestampUnix": 1605600214000,
+            "createdAtUnix": 1605600937871,
+            "dynamicValueType": 3000,
+            "value": "91",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605600758000,
+            "endTimestampUnix": 1605600800000,
+            "createdAtUnix": 1605600937876,
+            "dynamicValueType": 3000,
+            "value": "82",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605601363000,
+            "endTimestampUnix": 1605601410000,
+            "createdAtUnix": 1605602725458,
+            "dynamicValueType": 3000,
+            "value": "80",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605601960000,
+            "endTimestampUnix": 1605602004000,
+            "createdAtUnix": 1605602725462,
+            "dynamicValueType": 3000,
+            "value": "85",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605602564000,
+            "endTimestampUnix": 1605602612000,
+            "createdAtUnix": 1605602725465,
+            "dynamicValueType": 3000,
+            "value": "89",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605603156000,
+            "endTimestampUnix": 1605603196000,
+            "createdAtUnix": 1605616472732,
+            "dynamicValueType": 3000,
+            "value": "85",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605603754000,
+            "endTimestampUnix": 1605603792000,
+            "createdAtUnix": 1605616472736,
+            "dynamicValueType": 3000,
+            "value": "80",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605604362000,
+            "endTimestampUnix": 1605604408000,
+            "createdAtUnix": 1605616472740,
+            "dynamicValueType": 3000,
+            "value": "81",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605604964000,
+            "endTimestampUnix": 1605605012000,
+            "createdAtUnix": 1605616472743,
+            "dynamicValueType": 3000,
+            "value": "72",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605605554000,
+            "endTimestampUnix": 1605605592000,
+            "createdAtUnix": 1605616472747,
+            "dynamicValueType": 3000,
+            "value": "92",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605606165000,
+            "endTimestampUnix": 1605606214000,
+            "createdAtUnix": 1605616472750,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605606768000,
+            "endTimestampUnix": 1605606820000,
+            "createdAtUnix": 1605616472751,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605607362000,
+            "endTimestampUnix": 1605607408000,
+            "createdAtUnix": 1605616472752,
+            "dynamicValueType": 3000,
+            "value": "75",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605607964000,
+            "endTimestampUnix": 1605608012000,
+            "createdAtUnix": 1605616472755,
+            "dynamicValueType": 3000,
+            "value": "72",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605608553000,
+            "endTimestampUnix": 1605608590000,
+            "createdAtUnix": 1605616472756,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605609157000,
+            "endTimestampUnix": 1605609198000,
+            "createdAtUnix": 1605616472757,
+            "dynamicValueType": 3000,
+            "value": "75",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605609754000,
+            "endTimestampUnix": 1605609792000,
+            "createdAtUnix": 1605616472758,
+            "dynamicValueType": 3000,
+            "value": "81",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605610359000,
+            "endTimestampUnix": 1605610402000,
+            "createdAtUnix": 1605616472761,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605610963000,
+            "endTimestampUnix": 1605611010000,
+            "createdAtUnix": 1605616472770,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605611559000,
+            "endTimestampUnix": 1605611602000,
+            "createdAtUnix": 1605616472779,
+            "dynamicValueType": 3000,
+            "value": "84",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605612158000,
+            "endTimestampUnix": 1605612200000,
+            "createdAtUnix": 1605616472783,
+            "dynamicValueType": 3000,
+            "value": "41",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605612768000,
+            "endTimestampUnix": 1605612820000,
+            "createdAtUnix": 1605616472784,
+            "dynamicValueType": 3000,
+            "value": "44",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605613359000,
+            "endTimestampUnix": 1605613402000,
+            "createdAtUnix": 1605616472785,
+            "dynamicValueType": 3000,
+            "value": "74",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605613971000,
+            "endTimestampUnix": 1605614025000,
+            "createdAtUnix": 1605616472790,
+            "dynamicValueType": 3000,
+            "value": "68",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605615153000,
+            "endTimestampUnix": 1605615190000,
+            "createdAtUnix": 1605616472796,
+            "dynamicValueType": 3000,
+            "value": "68",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605615765000,
+            "endTimestampUnix": 1605615814000,
+            "createdAtUnix": 1605616472797,
+            "dynamicValueType": 3000,
+            "value": "63",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605616361000,
+            "endTimestampUnix": 1605616406000,
+            "createdAtUnix": 1605624597817,
+            "dynamicValueType": 3000,
+            "value": "70",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605616966000,
+            "endTimestampUnix": 1605617016000,
+            "createdAtUnix": 1605624597817,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605617559000,
+            "endTimestampUnix": 1605617601000,
+            "createdAtUnix": 1605624597818,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605618160000,
+            "endTimestampUnix": 1605618204000,
+            "createdAtUnix": 1605624597819,
+            "dynamicValueType": 3000,
+            "value": "81",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605618757000,
+            "endTimestampUnix": 1605618798000,
+            "createdAtUnix": 1605624597819,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605619371000,
+            "endTimestampUnix": 1605619426000,
+            "createdAtUnix": 1605624597820,
+            "dynamicValueType": 3000,
+            "value": "83",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605619954000,
+            "endTimestampUnix": 1605619992000,
+            "createdAtUnix": 1605624597821,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605620554000,
+            "endTimestampUnix": 1605620592000,
+            "createdAtUnix": 1605624597822,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605621191000,
+            "endTimestampUnix": 1605621266000,
+            "createdAtUnix": 1605624597822,
+            "dynamicValueType": 3000,
+            "value": "90",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605621771000,
+            "endTimestampUnix": 1605621826000,
+            "createdAtUnix": 1605624597827,
+            "dynamicValueType": 3000,
+            "value": "52",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605622365000,
+            "endTimestampUnix": 1605622414000,
+            "createdAtUnix": 1605624597829,
+            "dynamicValueType": 3000,
+            "value": "94",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605622964000,
+            "endTimestampUnix": 1605623012000,
+            "createdAtUnix": 1605624597830,
+            "dynamicValueType": 3000,
+            "value": "55",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605623564000,
+            "endTimestampUnix": 1605623612000,
+            "createdAtUnix": 1605624597830,
+            "dynamicValueType": 3000,
+            "value": "68",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605624159000,
+            "endTimestampUnix": 1605624202000,
+            "createdAtUnix": 1605624597831,
+            "dynamicValueType": 3000,
+            "value": "71",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605624776000,
+            "endTimestampUnix": 1605624839000,
+            "createdAtUnix": 1605634510404,
+            "dynamicValueType": 3000,
+            "value": "90",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605625358000,
+            "endTimestampUnix": 1605625403000,
+            "createdAtUnix": 1605634510407,
+            "dynamicValueType": 3000,
+            "value": "51",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605626570000,
+            "endTimestampUnix": 1605626627000,
+            "createdAtUnix": 1605634510408,
+            "dynamicValueType": 3000,
+            "value": "69",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605627204000,
+            "endTimestampUnix": 1605627295000,
+            "createdAtUnix": 1605634510414,
+            "dynamicValueType": 3000,
+            "value": "68",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605627760000,
+            "endTimestampUnix": 1605627807000,
+            "createdAtUnix": 1605634510415,
+            "dynamicValueType": 3000,
+            "value": "61",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605628362000,
+            "endTimestampUnix": 1605628411000,
+            "createdAtUnix": 1605634510419,
+            "dynamicValueType": 3000,
+            "value": "75",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605629567000,
+            "endTimestampUnix": 1605629621000,
+            "createdAtUnix": 1605634510435,
+            "dynamicValueType": 3000,
+            "value": "98",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605630158000,
+            "endTimestampUnix": 1605630203000,
+            "createdAtUnix": 1605634510440,
+            "dynamicValueType": 3000,
+            "value": "80",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605630765000,
+            "endTimestampUnix": 1605630817000,
+            "createdAtUnix": 1605634510451,
+            "dynamicValueType": 3000,
+            "value": "74",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605631360000,
+            "endTimestampUnix": 1605631406000,
+            "createdAtUnix": 1605634510452,
+            "dynamicValueType": 3000,
+            "value": "65",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605631959000,
+            "endTimestampUnix": 1605632005000,
+            "createdAtUnix": 1605634510457,
+            "dynamicValueType": 3000,
+            "value": "88",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605632550000,
+            "endTimestampUnix": 1605632587000,
+            "createdAtUnix": 1605634510458,
+            "dynamicValueType": 3000,
+            "value": "78",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605633156000,
+            "endTimestampUnix": 1605633199000,
+            "createdAtUnix": 1605634510459,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605633751000,
+            "endTimestampUnix": 1605633789000,
+            "createdAtUnix": 1605634510463,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605634350000,
+            "endTimestampUnix": 1605634387000,
+            "createdAtUnix": 1605634510463,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605634966000,
+            "endTimestampUnix": 1605635019000,
+            "createdAtUnix": 1605636314264,
+            "dynamicValueType": 3000,
+            "value": "74",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605635550000,
+            "endTimestampUnix": 1605635587000,
+            "createdAtUnix": 1605636314265,
+            "dynamicValueType": 3000,
+            "value": "73",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605636050000,
+            "endTimestampUnix": 1605636093000,
+            "createdAtUnix": 1605639905676,
+            "dynamicValueType": 3000,
+            "value": "76",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605636153000,
+            "endTimestampUnix": 1605636192000,
+            "createdAtUnix": 1605639905678,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605636754000,
+            "endTimestampUnix": 1605636795000,
+            "createdAtUnix": 1605639905686,
+            "dynamicValueType": 3000,
+            "value": "85",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605637373000,
+            "endTimestampUnix": 1605637433000,
+            "createdAtUnix": 1605639905698,
+            "dynamicValueType": 3000,
+            "value": "101",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605638568000,
+            "endTimestampUnix": 1605638622000,
+            "createdAtUnix": 1605639905716,
+            "dynamicValueType": 3000,
+            "value": "102",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605639168000,
+            "endTimestampUnix": 1605639222000,
+            "createdAtUnix": 1605639905732,
+            "dynamicValueType": 3000,
+            "value": "57",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605639762000,
+            "endTimestampUnix": 1605639811000,
+            "createdAtUnix": 1605642636012,
+            "dynamicValueType": 3000,
+            "value": "81",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605640353000,
+            "endTimestampUnix": 1605640393000,
+            "createdAtUnix": 1605642636012,
+            "dynamicValueType": 3000,
+            "value": "77",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605640958000,
+            "endTimestampUnix": 1605641003000,
+            "createdAtUnix": 1605642636013,
+            "dynamicValueType": 3000,
+            "value": "80",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605641556000,
+            "endTimestampUnix": 1605641599000,
+            "createdAtUnix": 1605642636014,
+            "dynamicValueType": 3000,
+            "value": "73",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605642153000,
+            "endTimestampUnix": 1605642192000,
+            "createdAtUnix": 1605642636015,
+            "dynamicValueType": 3000,
+            "value": "73",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605642753000,
+            "endTimestampUnix": 1605642793000,
+            "createdAtUnix": 1605646227732,
+            "dynamicValueType": 3000,
+            "value": "76",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605643358000,
+            "endTimestampUnix": 1605643403000,
+            "createdAtUnix": 1605646227736,
+            "dynamicValueType": 3000,
+            "value": "78",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605643960000,
+            "endTimestampUnix": 1605644007000,
+            "createdAtUnix": 1605646227736,
+            "dynamicValueType": 3000,
+            "value": "79",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605644555000,
+            "endTimestampUnix": 1605644597000,
+            "createdAtUnix": 1605646227737,
+            "dynamicValueType": 3000,
+            "value": "72",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605645153000,
+            "endTimestampUnix": 1605645193000,
+            "createdAtUnix": 1605646227737,
+            "dynamicValueType": 3000,
+            "value": "74",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605645763000,
+            "endTimestampUnix": 1605645812000,
+            "createdAtUnix": 1605646227738,
+            "dynamicValueType": 3000,
+            "value": "47",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605646365000,
+            "endTimestampUnix": 1605646416000,
+            "createdAtUnix": 1605652533393,
+            "dynamicValueType": 3000,
+            "value": "102",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605646953000,
+            "endTimestampUnix": 1605646993000,
+            "createdAtUnix": 1605652533418,
+            "dynamicValueType": 3000,
+            "value": "105",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605647553000,
+            "endTimestampUnix": 1605647593000,
+            "createdAtUnix": 1605652533435,
+            "dynamicValueType": 3000,
+            "value": "87",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605648156000,
+            "endTimestampUnix": 1605648199000,
+            "createdAtUnix": 1605652533436,
+            "dynamicValueType": 3000,
+            "value": "83",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605650559000,
+            "endTimestampUnix": 1605650605000,
+            "createdAtUnix": 1605652533436,
+            "dynamicValueType": 3000,
+            "value": "85",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605651179000,
+            "endTimestampUnix": 1605651245000,
+            "createdAtUnix": 1605652533437,
+            "dynamicValueType": 3000,
+            "value": "111",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605651753000,
+            "endTimestampUnix": 1605651793000,
+            "createdAtUnix": 1605652533438,
+            "dynamicValueType": 3000,
+            "value": "75",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605652351000,
+            "endTimestampUnix": 1605652389000,
+            "createdAtUnix": 1605652533439,
+            "dynamicValueType": 3000,
+            "value": "74",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605652951000,
+            "endTimestampUnix": 1605652989000,
+            "createdAtUnix": 1605653427345,
+            "dynamicValueType": 3000,
+            "value": "73",
+            "valueType": "LONG"
+          },
+          {
+            "startTimestampUnix": 1605653551000,
+            "endTimestampUnix": 1605653589000,
+            "createdAtUnix": 1605654353885,
+            "dynamicValueType": 3000,
+            "value": "70",
+            "valueType": "LONG"
+          }
+        ]
+      }
+    ]
+  }
+]
