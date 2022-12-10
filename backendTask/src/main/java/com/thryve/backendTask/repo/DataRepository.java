@@ -1,7 +1,8 @@
 package com.thryve.backendTask.repo;
 
-import com.thryve.backendTask.model.HeartRateEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.thryve.backendTask.repo.entity.HeartRateEntity;
 
 import java.util.List;
 import java.util.UUID;

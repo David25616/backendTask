@@ -3,8 +3,8 @@ package com.thryve.backendTask.util;
 import com.thryve.backendTask.controller.model.output.HeartRateOutput;
 import com.thryve.backendTask.model.EventDto;
 import com.thryve.backendTask.model.HeartRateDto;
-import com.thryve.backendTask.model.HeartRateEntity;
 import com.thryve.backendTask.repo.entity.EventEntity;
+import com.thryve.backendTask.repo.entity.HeartRateEntity;
 
 import java.util.Collection;
 import java.util.List;
